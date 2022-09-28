@@ -1,12 +1,9 @@
 # Fala Dev!! Tudo beleza ?
 
 - 👨🏽‍💻 -  Eu me chamo [Jéssica Peixoto](https://www.linkedin.com/in/jessica04peixoto);
-- 💜 - Atualmente sou Tech Recruiter Jr trabalhando de forma autônoma ;
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
-- 💸 - Constantemente temos vagas para:
-- - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
-- - **Backend**: NestJs + PrismaIO + PostgreSQL;
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
+- 💜 - Atualmente sou Tech Recruiter Starter para iTRecruiter e atuo como headhunter de forma autônoma;
+- 🦄 - A iTRecruiter é uma startup de recrutamento e seleção de Portugal que busca conectar empresas e profissionais de TI;
+- 🧳 - Se você se interessa por vaga internacional, [entre em contato conosco](https://www.linkedin.com/in/jessica04peixoto).
 
 ##
 
@@ -31,12 +28,9 @@
   
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCywV9Q7gvVNi-6bAJRomLPQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
   
-  <a href="https://instagram.com/paulopelaez" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://twitter.com/_jesspeixoto" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
   
   <a href="mailto:jessica04peixoto@gmail.com">
@@ -46,11 +40,9 @@
   <a href="https://www.linkedin.com/in/jessica04peixoto" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  
-   <a href="https://wa.me/5534993190408" target="_blank">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-  </a> 
- 
+
+
+
   ![Snake animation](https://github.com/paulopelaez/paulopelaez/blob/output/github-grid-snake.svg)
  
 </div>
